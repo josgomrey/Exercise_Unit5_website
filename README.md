@@ -12,4 +12,4 @@ The technologies in this Repository are:
 
 ## Instructions to open index.html
 
-To open index.html, write or paste "https://github.com/josgomrey/Exercise_Unit5_website/index.html" on the main bar or search bar
+To open index.html, write or paste "[https://github.com/josgomrey/Exercise_Unit5_website](https://josgomrey.github.io/Exercise_Unit5_website/)/index.html" on the main bar or search bar
